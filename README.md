@@ -18,9 +18,6 @@ Place `diabetes_012_health_indicators_BRFSS2015.csv` in the project root.
 |--------|---------|
 | `binary_and_univariable_analysis.py` | ML pipeline + univariable tests |
 | `multivariable_logistic_analysis.py` | Weighted logistic regression + VIF |
-| `generate_final_report_extended.py` | Build Word report (needs `figures/*.csv`) |
-| `regenerate_fig1_fig2.py` | Regenerate binary class distribution figures |
-| `create_presentation.js` | Build PPTX (`npm install` first) |
 
 Paths resolve from each script’s location; run from the repository root.
 
